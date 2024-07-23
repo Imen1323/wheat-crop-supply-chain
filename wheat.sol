@@ -2,7 +2,7 @@
 pragma solidity >=0.4.22 <0.9.0;
 pragma experimental ABIEncoderV2;
 
-contract Website {
+contract wheat {
     address private adminAddress = 0x36791A5FEa70814e9E9ab1d6A03F623c2386Cd04;
     uint256 tid;
     struct Transportation {
